@@ -1,0 +1,13 @@
+4006acd30db330334ecbbaa612ddf48b *DESCRIPTION
+7015a9e1f98feff5222414623469d66e *NAMESPACE
+27223a211543efb2c34cd9e67ab323d4 *NEWS.md
+9ff64793ee7c2cc02832aac4bb7d9e6d *R/SpectrumLegend.R
+d097c0629232821c6c98704c7220c088 *README.md
+effb9f4a13ca42121f62aaedcdea155d *inst/CITATION
+e4e277510df26a4fe8b7e5f65771dd01 *inst/WORDLIST
+370e3e917bfc4b601e198439bddacd5f *man/SpectrumLegend.Rd
+80e425ddf267e2f018ac8d21c155c371 *tests/testthat.R
+a2285cd88eab3ee7dd42b36de5e182f7 *tests/testthat/_snaps/SpectrumLegend/sizelegend-h.svg
+cb5ed7fb697c4b7a2ab18646323f7606 *tests/testthat/_snaps/SpectrumLegend/sizelegend-v.svg
+1f317cd3e838be23351f3d4b0cb05c9e *tests/testthat/_snaps/SpectrumLegend/spectrumlegend.svg
+744bba5e1b0c009984ca4814d714c0b2 *tests/testthat/test-SpectrumLegend.R
