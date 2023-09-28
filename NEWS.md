@@ -1,6 +1,14 @@
+# PlotTools v0.2.1 (2023-09-28)
+
+- Default to `SpectrumLegend(lend = "butt")` to avoid artefacts with
+  semi-transparency [#3](https://github.com/ms609/PlotTools/issues/3).
+- Use more intuitive argument order in `SpectrumLegend()`.
+
+
 # PlotTools v0.2.0 (2023-05-19)
 
 - Add polygon functions, initially from "Ternary"
+
 
 # PlotTools v0.1.0 (2023-04-18)
 
