@@ -2,23 +2,20 @@
 % Please edit documentation in R/Col2Hex.R
 \name{Col2Hex}
 \alias{Col2Hex}
-\title{Colour to hexadecimal conversion
-Convert R colour to hexadecimal representation.}
+\title{Colour to hexadecimal conversion}
 \usage{
 Col2Hex(col, alpha = FALSE)
 }
 \arguments{
 \item{col}{vector of any of the three kinds of \R color specifications,
     i.e., either a color name (as listed by \code{\link[grDevices]{colors}()}), a
-    hexadecimal string of the form \code{"#rrggbb"} or
-    \code{"#rrggbbaa"} (see \code{\link[grDevices]{rgb}}), or a positive integer
-    \code{i} meaning \code{\link[grDevices]{palette}()[i]}.}
+    hexadecimal string (see Details),
+    or a positive integer \code{i} meaning \code{\link[grDevices]{palette}()[i]}.}
 
 \item{alpha}{logical value indicating whether the alpha channel (opacity)
     values should be returned.}
 }
 \description{
-Colour to hexadecimal conversion
 Convert R colour to hexadecimal representation.
 }
 \examples{
